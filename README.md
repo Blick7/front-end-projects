@@ -19,7 +19,7 @@ Website for searching books and storing them in a database.
 Data fetched using [Open Library Search API](https://openlibrary.org/dev/docs/api/search).
 Learned how to use NextJS, how SSR works and Tailwind which allows to write styles faster and easier.
 
-[Deploy](https://github.com/Blick7/books-search)
+[Deploy](https://books-search-two.vercel.app/)
 
 [Repository](https://github.com/Blick7/books-search)
 
